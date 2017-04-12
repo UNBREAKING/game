@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Landing page</title>
+    <link href="assets/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/stylesheet.css" rel="stylesheet">
+    <!-- Load c3.css -->
+    <link href="assets/graphics/c3-0.4.10/c3.css" rel="stylesheet" type="text/css">
+
+    <!-- Load d3.js and c3.js -->
+    <script src="assets/graphics/d3/d3.min.js" charset="utf-8"></script>
+    <script src="assets/graphics/c3-0.4.10/c3.min.js"></script>
+
+
+</head>
+<body>
+<div class="navbar navbar-fixed-top header">
+    <a class="brand" href="#">Pentix </a>
+    <a class="right" href="#"><div id="textOfGame">Classic</div></a>
+</div>
+<div class="container">
+    <div class="TextForClassic" id="forClose">
+        <p id="SC">Your score : 0 </p>
+        <p id="SP">Your speed : 0</p>
+        <p id="PO">Your power : 0</p>
+        <p id="LI">Deleted lines : 0</p>
+        <p id="TI">Time : 0 seconds</p>
+        <input type="button" value="OK" id="close" class="but" onclick="Close()">
+    </div>
+    <div class="rules">
+        <h3>Hot Buttons</h3>
+        <p> <div class="But1">&uarr;</div> - Rotate </p>
+        <p><div class="But1">&larr;</div> - Left</p>
+        <p><div class="But1">&rarr;</div> - Right </p>
+        <p> <div class="But1">&darr;</div> - Down </p>
+        <p> <div class="But1">Space</div> - Drop </p>
+        <p> <div class="But1">Q</div> - Exchange </p>
+        <p> <div class="But1">W</div> - Mirroring </p>
+        <p> <div class="But1">Esc</div> - Pause </p>
+    </div>
+    <div class="buttons">
+       <p> <input type="button" value="classic" class="but" onclick="chooseclassic()"></p>
+        <p><input type="button" value="lines" class="but" onclick="chooselines()"></p>
+        <p> <input type="button" value="start" id="play" class="but" onclick="play()"></p>
+    </div>
+    <div id="Pause">Pause</div>
+    <canvas height="542" width="380" id="myCanvas"></canvas>
+    <div class="points">
+       <h3>Metrics</h3>
+        <p><div id="power">Power: 0</div></p>
+        <p><div id="speed">Speed: 0</div></p>
+        <p><div id="kek">Score: 0</div></p>
+        <p><div id="lines">Lines: 0</div> </p>
+        <p><div id="time">Time: 0</div></p>
+    </div>
+    <canvas height="158" width="150" id="SNF"></canvas>
+    <div class="graphics">
+        <div id="ToPower"></div>
+        <div id="ToSpeed"></div>
+        <div id="ToScore"></div>
+    </div>
+</div>
+</body>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="assets/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<script src="assets/js/script1.js"></script>
+<!-- Load d3.js and c3.js -->
+<script src="assets/graphics/d3/d3.min.js" charset="utf-8"></script>
+<script src="assets/graphics/c3-0.4.10/c3.min.js"></script>
+</html>
