@@ -1,7 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ac9a841-605a-458f-a4aa-8acf7ad1cc27" name="Default" comment="" />
+    <list default="true" id="3ac9a841-605a-458f-a4aa-8acf7ad1cc27" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Landing Page.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/Gruntfile.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/c3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/c3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/c3.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/c3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/extensions/exporter/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/extensions/exporter/phantom-exporter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/extensions/exporter/test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/extensions/js/c3ext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/css/c3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test.tsv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test2_ts.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test_2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/data/c3_test_ts.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/js/c3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/js/c3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/js/extensions" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/js/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/js/samples/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/js/samples/requirejs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/js/samples/zoom_reduction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_axis_label.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_axis_range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_data_colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_flow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_flow_timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_legend.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_tooltip_show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_transform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_xgrid_lines.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/api_ygrid_lines.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/area_zerobased.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_padding.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_x_extent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_x_localtime.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_x_range_timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_x_tick_culling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_x_tick_fit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_x_tick_rotate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_x_tick_values.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_y2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/axes_y_default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/bar_zerobased.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/bindto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/categorized.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_area.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_area_spline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_area_spline_stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_area_stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_area_step.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_area_step_stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_bar_stacked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_combination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_donut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_gauge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_pie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_pie_sort.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_scatter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_spline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_step.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/chart_step_category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/custom_x_categorized.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/custom_x_scale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/custom_xs_scale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_columned.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_hide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_json.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_label.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_label_format.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_load.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_load_timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_region.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_region_timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_rowed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/data_url.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/domain_y.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/emptydata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/grid_focus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/grid_x_lines.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/grid_x_lines_timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/grids.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/grids_timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/interaction_enabled.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/legend.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/padding.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/padding_update.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/point_r.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/regions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/regions_timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/requirejs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/selection.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/subchart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/subchart_onbrush.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/timeseries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/timeseries_date.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/timeseries_descendent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/timeseries_raw.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/tooltip_grouped.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/tooltip_show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/zoom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/zoom_category.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/zoom_onzoom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/htdocs/samples/zoom_reduction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/api.axis-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/api.data-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/api.focus-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/api.grid-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/api.load-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/api.zoom-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/arc-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/axis-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/c3-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/c3-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/class-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/core-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/data-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/domain-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/grid-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/interaction-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/legend-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/shape.bar-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/shape.line-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/tooltip-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/type-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/spec/zoom-spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.axis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.category.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.flow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.focus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.group.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.legend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.region.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.selection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.show.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.transform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/api.zoom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/arc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/axis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/c3.axis.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/cache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/category.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/class.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/clip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/data.convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/data.load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/domain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/drag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/head.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/interaction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/legend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/polyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/region.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/arc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/area.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/axis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/brush.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/chart.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/legend.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/line.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/point.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/region.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/select_drag.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/scss/tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/selection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/shape.bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/shape.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/shape.line.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/size.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/subchart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/tail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/c3-0.4.10/src/zoom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/d3/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/d3/d3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/graphics/d3/d3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/script1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,48 +263,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="Landing Page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Landing Page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-              <folding>
-                <element signature="e#1149#1155#0" expanded="true" />
-                <element signature="e#1205#1211#0" expanded="true" />
-                <element signature="e#1258#1264#0" expanded="true" />
-                <element signature="e#1314#1320#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="680">
+              <caret line="88" column="93" lean-forward="false" selection-start-line="88" selection-start-column="93" selection-end-line="88" selection-end-column="93" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/assets/css/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#23439#23480#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="746">
+              <caret line="238" column="5" lean-forward="false" selection-start-line="238" selection-start-column="5" selection-end-line="238" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script1.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="1173">
+              <caret line="69" column="59" lean-forward="false" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -70,9 +298,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,6 +310,9 @@
       <find>Figurine</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -90,6 +321,9 @@
         <option value="$PROJECT_DIR$/assets/css/stylesheet.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/script1.js" />
+        <option value="$PROJECT_DIR$/game/index.html" />
+        <option value="$PROJECT_DIR$/game/assets/css/stylesheet.css" />
+        <option value="$PROJECT_DIR$/Landing Page.html" />
       </list>
     </option>
   </component>
@@ -120,25 +354,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new-game" />
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new-game" />
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new-game" />
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new-game" />
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -152,11 +406,15 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new-game" />
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="new-game" />
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -164,10 +422,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,6 +554,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3ac9a841-605a-458f-a4aa-8acf7ad1cc27" name="Default" comment="" />
@@ -277,20 +584,28 @@
       <workItem from="1492014732951" duration="1785000" />
       <workItem from="1492016625019" duration="855000" />
       <workItem from="1492018459166" duration="629000" />
+      <workItem from="1492026798466" duration="1729000" />
+      <workItem from="1492028551147" duration="1794000" />
+      <workItem from="1492030368043" duration="1616000" />
+      <workItem from="1492032183879" duration="2354000" />
+      <workItem from="1492034566857" duration="1484000" />
+      <workItem from="1492036416343" duration="598000" />
+      <workItem from="1492039855813" duration="1518000" />
+      <workItem from="1492041796639" duration="742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30684000" />
+    <option name="totallyTimeSpent" value="42519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1216" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13072917" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13072917" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -316,500 +631,81 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5236">
-          <caret line="308" column="1" lean-forward="false" selection-start-line="293" selection-start-column="0" selection-end-line="308" selection-end-column="1" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5236">
-          <caret line="308" column="1" lean-forward="true" selection-start-line="293" selection-start-column="0" selection-end-line="308" selection-end-column="1" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9928">
-          <caret line="584" column="26" lean-forward="true" selection-start-line="583" selection-start-column="4" selection-end-line="584" selection-end-column="26" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3451">
-          <caret line="203" column="93" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="203" selection-end-column="93" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3451">
-          <caret line="203" column="93" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="203" selection-end-column="93" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="63" lean-forward="false" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2312">
-          <caret line="136" column="23" lean-forward="false" selection-start-line="136" selection-start-column="23" selection-end-line="136" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="55" lean-forward="false" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="19" lean-forward="false" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/script1.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script1.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script1.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script1.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script1.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/assets/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap-3.3.7-dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/assets/graphics/d3/d3.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/script1.js" />
+    <entry file="file://$PROJECT_DIR$/game/assets/js/script1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/graphics/d3/d3.js">
+    <entry file="file://$PROJECT_DIR$/game/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        <state relative-caret-position="1173">
+          <caret line="69" column="59" lean-forward="false" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script.js">
+    <entry file="file://$PROJECT_DIR$/game/assets/css/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#23439#23480#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        <state relative-caret-position="746">
+          <caret line="238" column="5" lean-forward="false" selection-start-line="238" selection-start-column="5" selection-end-line="238" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Landing Page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="66" column="30" lean-forward="false" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding>
-            <element signature="e#1149#1155#0" expanded="true" />
-            <element signature="e#1205#1211#0" expanded="true" />
-            <element signature="e#1258#1264#0" expanded="true" />
-            <element signature="e#1314#1320#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="680">
+          <caret line="88" column="93" lean-forward="false" selection-start-line="88" selection-start-column="93" selection-end-line="88" selection-end-column="93" />
+          <folding />
         </state>
       </provider>
     </entry>

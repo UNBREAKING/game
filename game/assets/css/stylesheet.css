@@ -1,5 +1,6 @@
 .header{
     background-color: #1E90FF;
+    display: block;
 }
 .header a{
     color:white;
@@ -8,6 +9,10 @@
     padding-left: 10px;
     margin: 0 0 0 -5px;
     text-decoration: none;
+}
+.header a:hover {
+    color: #383838; /* Цвет ссылки при наведении на нее курсора мыши */
+    text-decoration: underline; /* Добавляем подчеркивание */
 }
 .header ul {
     float:right;
@@ -141,4 +146,110 @@
     color:white;
     border: 4px solid white;
     background: #1E90FF;
+}
+
+
+.containerforLanding{
+    background-color: #1E90FF;
+    height: 500px;
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+}
+
+
+.title{
+    padding-top: 100px;
+    font-size: 142px;
+    color: #355188;
+
+}
+
+.title1{
+    padding-top: 100px;
+    font-size: 100px;
+    color: #366F96;
+    margin-bottom: 40px;
+}
+.intro{
+    font-size: 40px;
+}
+.toGame{
+    background-color: #0f0f0f;
+    color: #EBEBEB;
+    font-size: 40px;
+    border: 4px solid #0f0f0f;
+    border-radius: 8px;
+}
+.toGame:hover{
+    background-color: #12203B;
+    color: #EBEBEB;
+    text-decoration: none;
+}
+.section{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+    width: 750px;
+}
+.section .intro{
+    font-size: 24px;
+}
+.section p{
+    font-size: 18px;
+}
+.image{
+    margin-top:40px;
+    margin-bottom: 40px;
+    width: 549px;
+    height: 209px;
+    background: url(img/figures.jpg);
+}
+#Rules,#Tech{
+    background-color: #133433;
+}
+
+.hotkey{
+    width: 250px;
+    height: 50px;
+    text-align: center;
+
+
+}
+.text{
+    width: 450px;
+    height: 50px;
+    color: #9EAEAD;
+    font-size: 18px;
+}
+.info div{
+    display: inline-block;
+}
+.info{
+    margin-top: 40px;
+
+}
+.section ul{
+    margin-left: 100px;
+    font-size: 32px;
+
+}
+#Tech ul{
+    color:#9EAEAD;
+    margin-top: 40px;
+}
+.section img{
+    width: 650px;
+}
+
+#Footer{
+    background-color: #152828;
+    height: 40px;
+    font-size: 24px;
+    text-align: center;
+    color:#9EAEAD;
+}
+
+.section img{
+    margin-top: 40px;
 }

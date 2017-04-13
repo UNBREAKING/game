@@ -2,70 +2,121 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Landing page</title>
-    <link href="assets/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/stylesheet.css" rel="stylesheet">
-    <!-- Load c3.css -->
-    <link href="assets/graphics/c3-0.4.10/c3.css" rel="stylesheet" type="text/css">
-
-    <!-- Load d3.js and c3.js -->
-    <script src="assets/graphics/d3/d3.min.js" charset="utf-8"></script>
-    <script src="assets/graphics/c3-0.4.10/c3.min.js"></script>
-
-
+    <title>Landing Page</title>
+    <link href="game/assets/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="game/assets/css/stylesheet.css" rel="stylesheet">
 </head>
-<body>
+<div>
 <div class="navbar navbar-fixed-top header">
     <a class="brand" href="#">Pentix </a>
-    <a class="right" href="#"><div id="textOfGame">Classic</div></a>
+
+        <ul class="nav-pills">
+            <li role="presentation" class="nav-item"><a href="#About">About</a></li>
+            <li role="presentation" class="nav-item"><a href="#Rules">Instruction</a></li>
+            <li role="presentation" class="nav-item"><a href="#Rating">Rating</a></li>
+            <li role="presentation" class="nav-item"><a href="#Tech">Technologies</a></li>
+            <li role="presentation" class="nav-item"><a href="#Scr">Screenshots</a></li>
+        </ul>
+
 </div>
-<div class="container">
-    <div class="TextForClassic" id="forClose">
-        <p id="SC">Your score : 0 </p>
-        <p id="SP">Your speed : 0</p>
-        <p id="PO">Your power : 0</p>
-        <p id="LI">Deleted lines : 0</p>
-        <p id="TI">Time : 0 seconds</p>
-        <input type="button" value="OK" id="close" class="but" onclick="Close()">
+<div class="containerforLanding">
+    <h1 class="title">Pentix</h1>
+    <p class="intro">Simple and Gorgeous</p>
+    <a class="toGame" href="game/game.html">Game</a>
+</div>
+<div id="About">
+    <div class="section">
+    <h2 class="title1">What is Pentix?</h2>
+        <p class="intro">This is an improved version of Tetris, where the number of squares in the figure is 5, i.e. is one more than in Tetris.</p>
+        <div class="image"></div>
+        <p>The idea of ​​the game is to place the figures most appropriately arriving from above in the playing field. In this case, if the line in the playing field is completely packed with squares, then it is cleared, and all that was topped is shifted downwards. Each figure consists of elementary squares interconnected by adjacent edges in a random way. The number of elementary squares in one figure equals 5.
+            This is the fundamental difference between Pentix (5 - penta (lat.)) And the original Tetris (4 - tetra (lat.)), where the number of elementary squares constituting the figure is strictly 4. Figures arrive In a random sequence.
+            </p>
+    <p>The goal of the game is to score the maximum possible number of points awarded for each successfully placed figure. The game ends when the game field is filled with figures.</p>
+        <p>In this game there are two modes: classic and lines.
+            The idea of the first mode is that you need to play until the field is completely filled.
+            The difficulty of the second mode is that you need to remove as fast as possible 20 lines. </p>
     </div>
-    <div class="rules">
-        <h3>Hot Buttons</h3>
-        <p> <div class="But1">&uarr;</div> - Rotate </p>
-        <p><div class="But1">&larr;</div> - Left</p>
-        <p><div class="But1">&rarr;</div> - Right </p>
-        <p> <div class="But1">&darr;</div> - Down </p>
-        <p> <div class="But1">Space</div> - Drop </p>
-        <p> <div class="But1">Q</div> - Exchange </p>
-        <p> <div class="But1">W</div> - Mirroring </p>
-        <p> <div class="But1">Esc</div> - Pause </p>
+</div>
+<div id="Rules">
+    <div class="section">
+    <h2 class="title1">Hotkeys</h2>
+        <div class="info">
+            <div class=hotkey> <a class="toGame" href="#">&uarr;</a></div>
+            <div class="text"> With that button you can rotate your figure on the field.</div>
+        </div>
+        <div class="info">
+            <div class="text">This one moves the figure on the left.</div>
+            <div class=hotkey> <a class="toGame" href="#">&larr;</a></div>
+
+        </div>
+        <div class="info">
+            <div class=hotkey> <a class="toGame" href="#">&rarr;</a></div>
+            <div class="text">Using this hotkey you move the figure on the right.</div>
+        </div>
+        <div class="info">
+            <div class="text">This button moves the figure down.</div>
+            <div class=hotkey> <a class="toGame" href="#">&darr;</a></div>
+
+        </div>
+        <div class="info">
+            <div class=hotkey> <a class="toGame" href="#">Space</a></div>
+            <div class="text">That hotkey instantly moves the figure down until it finds an
+                obstruction or end of the field.</div>
+        </div>
+        <div class="info">
+            <div class="text">This button change your figure on a next one. </div>
+            <div class=hotkey><a class="toGame" href="#">Q</a></div>
+
+        </div>
+        <div class="info">
+            <div class=hotkey> <a class="toGame" href="#">W</a></div>
+            <div class="text">With help of this button you can have a mirror copy of the figure.</div>
+        </div>
+        <div class="info">
+            <div class="text">Using this hotkey you can turn game on a pause.</div>
+            <div class=hotkey><a class="toGame" href="#">Esc</a></div>
+
+        </div>
     </div>
-    <div class="buttons">
-       <p> <input type="button" value="classic" class="but" onclick="chooseclassic()"></p>
-        <p><input type="button" value="lines" class="but" onclick="chooselines()"></p>
-        <p> <input type="button" value="start" id="play" class="but" onclick="play()"></p>
+</div>
+    <div id="Rating">
+        <div class="section">
+            <h2 class="title1">Rating</h2>
+            <ul>
+                <li>Score <p>This are points for deleted lines.</p></li>
+                <li>Speed <p>This metric shows to you how fast you delete lines.</p></li>
+                <li>Power <p>This is a main metric,which will show to you how strong you are.</p></li>
+            </ul>
+            <img src="game/assets/css/img/rating.jpg">
+        </div>
     </div>
-    <div id="Pause">Pause</div>
-    <canvas height="542" width="380" id="myCanvas"></canvas>
-    <div class="points">
-       <h3>Metrics</h3>
-        <p><div id="power">Power: 0</div></p>
-        <p><div id="speed">Speed: 0</div></p>
-        <p><div id="kek">Score: 0</div></p>
-        <p><div id="lines">Lines: 0</div> </p>
-        <p><div id="time">Time: 0</div></p>
+    <div id="Tech">
+        <div class="section">
+        <h2 class="title1">Technologies</h2>
+            <ul>
+                <li>JavaScript</li>
+                <li>CSS3+HTML5</li>
+                <li>Canvas</li>
+                <li>C3 and D3 for drawing graphs</li>
+            </ul>
+        </div>
     </div>
-    <canvas height="158" width="150" id="SNF"></canvas>
-    <div class="graphics">
-        <div id="ToPower"></div>
-        <div id="ToSpeed"></div>
-        <div id="ToScore"></div>
+    <div id="Scr">
+        <div class="section">
+            <h2 class="title1">Screenshots</h2>
+            <img src="game/assets/css/img/pic0.jpg">
+            <img src="game/assets/css/img/pic1.jpg">
+            <img src="game/assets/css/img/pic2.jpg">
+            <img src="game/assets/css/img/pic3.jpg">
+        </div>
     </div>
+</div>
+<div id="Footer">
+    <div class="section">2017. All right reserved.</div>
 </div>
 </body>
 <script src="http://code.jquery.com/jquery-latest.js"></script>
-<script src="assets/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-<script src="assets/js/script1.js"></script>
-<!-- Load d3.js and c3.js -->
-<script src="assets/graphics/d3/d3.min.js" charset="utf-8"></script>
-<script src="assets/graphics/c3-0.4.10/c3.min.js"></script>
+<script src="game/assets/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+
 </html>
