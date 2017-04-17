@@ -23,6 +23,7 @@
     <h1 class="title">Pentix</h1>
     <p class="intro">Simple and Gorgeous</p>
     <a class="toGame" href="game/game.html">Game</a>
+    <a class="toGame" href="game/slides-deck-0.html">Presentation</a>
 </div>
 <div id="About">
     <div class="section">
@@ -118,5 +119,12 @@
 </body>
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script src="game/assets/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+<script>
+    var NAVIGATION = [32,37, 38, 39, 40];
 
+    document.body.addEventListener("keydown", function(event) {
+        if (-1 != NAVIGATION.indexOf(event.keyCode))
+            event.preventDefault();
+    });
+</script>
 </html>

@@ -1,3 +1,11 @@
+var NAVIGATION = [32,37, 38, 39, 40];
+
+document.body.addEventListener("keydown", function(event) {
+    if (-1 != NAVIGATION.indexOf(event.keyCode))
+        event.preventDefault();
+});
+
+
 // создаем массив цветов
 var Color=["mediumpurple","SteelBlue","Black","#734E3A","#794C44","#3C685E","#395336","darkslateblue"];/**
  * Created by Alex on 12.04.2017.
@@ -151,7 +159,7 @@ class GameField{
         this.ConX=null;
         this.ResEnd=null;
         this.Schetchik=null;
-        this.LOCK=0;
+
         this.gameOn=false;
 //Базовое значение нижней ячейки
         this.BasicY=513;
@@ -729,7 +737,7 @@ addEventListener("keydown", function (event) {
             GF.ConY=GF.contactY(GF.MaxX-GF.lol2,GF.MaxY-GF.lol1);
             GF.ConX=GF.contactX(GF.MaxX-GF.lol2,GF.MaxY-GF.lol1);
         }
-    }
+    } //Exchange
     if(event.keyCode==81 && GF.ConY===0 && GF.ConX[1]!=1 && GF.ConX[0]!=-1 && GF.gameOn==true && GF.onPause==0){
         var Ax=GF.MaxX-GF.lol2;
         var Ay=GF.MaxY-GF.lol1;
@@ -766,7 +774,7 @@ addEventListener("keydown", function (event) {
         GF.ConX=GF.contactX(GF.MaxX-GF.lol2,GF.MaxY-GF.lol1);
         GF.drawf(GF.context,GF.Fig);
         GF.XORDVIZH-=1;
-    }
+    }//Mirroring
     if(event.keyCode==87 && GF.ConY===0 && GF.ConX[1]!=1 && GF.ConX[0]!=-1 && GF.gameOn==true && GF.onPause==0){
         var Ax=GF.MaxX-GF.lol2;
         var Ay=GF.MaxY-GF.lol1;
